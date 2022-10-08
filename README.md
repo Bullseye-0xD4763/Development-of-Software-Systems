@@ -5,6 +5,6 @@
 </p>
 
 
-Management Software for a Computer Repair Centre. CLI application.
+CLI Management Software for a Computer Repair Centre.
 
 A State Machine Design is used to determine which commands are accessible based on employee's seniority.
